@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "brands": [
+    {
+      "id": "polyhaven",
+      "name": "Poly Haven",
+      "url": "https://polyhaven.com",
+      "license": "CC0 1.0 (public domain). Models by Poly Haven, polyhaven.com.",
+      "catalog": "brands/polyhaven/catalog.json"
+    }
+  ]
+}
