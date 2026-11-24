@@ -11,10 +11,6 @@ files through GitHub Pages.
 
 ## Licences
 
-| Brand | Source | Licence |
-| --- | --- | --- |
-| Poly Haven | <https://polyhaven.com> | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain) |
-
-The Poly Haven models were converted to self-contained `.glb` files, placed on
-the floor at the origin and measured. Their geometry and 1K textures are
-otherwise unchanged.
+Every model is free to use under its own licence, recorded in its brand's
+`catalog.json` (`license`, `author`, `url`). Models under CC BY must keep their
+author's credit, which the app shows with each model.
