@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "brands": []
+  "brands": [
+    {
+      "id": "sketchfab",
+      "name": "Sketchfab",
+      "url": "https://sketchfab.com",
+      "license": "Each model has its own licence (CC BY 4.0 or CC0) and author, shown with the model.",
+      "catalog": "brands/sketchfab/catalog.json"
+    }
+  ]
 }
