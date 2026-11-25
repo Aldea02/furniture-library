@@ -13,6 +13,7 @@
       "url": "https://sketchfab.com/3d-models/gld-modern-white-sofa-w-zebra-pillows-320c1030516443238695164fb2b79eff",
       "author": "Tigrotto",
       "license": "CC BY 4.0",
+      "style": "Modern",
       "thumbnail": "thumbnails/gld-modern-white-sofa-w-zebra-pillows.webp"
     },
     {
@@ -26,7 +27,22 @@
       "url": "https://sketchfab.com/3d-models/modern-sofa-60e1b861407547bca760424c9c38ec78",
       "author": "AM ARCHITECTURE",
       "license": "CC BY 4.0",
+      "style": "Modern",
       "thumbnail": "thumbnails/modern-sofa.webp"
+    },
+    {
+      "id": "sofa",
+      "name": "Sofa",
+      "category": "Living Room",
+      "width": 168.6,
+      "depth": 77.7,
+      "height": 103.3,
+      "model": "models/sofa.glb",
+      "url": "https://sketchfab.com/3d-models/sofa-dc29b5540a7f4e0dbd43823975607af7",
+      "author": "AK STUDIO",
+      "license": "CC BY 4.0",
+      "style": "Modern",
+      "thumbnail": "thumbnails/sofa.webp"
     }
   ]
 }
