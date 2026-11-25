@@ -14,6 +14,19 @@
       "author": "Tigrotto",
       "license": "CC BY 4.0",
       "thumbnail": "thumbnails/gld-modern-white-sofa-w-zebra-pillows.webp"
+    },
+    {
+      "id": "modern-sofa",
+      "name": "modern sofa",
+      "category": "Living Room",
+      "width": 293,
+      "depth": 114.7,
+      "height": 80,
+      "model": "models/modern-sofa.glb",
+      "url": "https://sketchfab.com/3d-models/modern-sofa-60e1b861407547bca760424c9c38ec78",
+      "author": "AM ARCHITECTURE",
+      "license": "CC BY 4.0",
+      "thumbnail": "thumbnails/modern-sofa.webp"
     }
   ]
 }
